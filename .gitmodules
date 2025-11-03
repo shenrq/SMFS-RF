@@ -1,0 +1,3 @@
+[submodule "SMF_S_Release"]
+	path = SMF_S_Release
+	url = https://github.com/LicongLiu/SMF_S_Release.git
